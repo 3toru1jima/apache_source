@@ -368,5 +368,3 @@ test/gen
 test/pyhttpd/config.ini
 __pycache__
 
-git config --global user.name "ichijima"
-git config --global user.email "twitteronly012@gmail.com"
